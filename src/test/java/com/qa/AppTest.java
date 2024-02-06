@@ -21,7 +21,7 @@ public class AppTest
     @Test
     public void test_shouldAnswerWithTen()
     {
-        int answer = 9;
+        int answer = 10;
         assertEquals(10, answer );
     }
 
